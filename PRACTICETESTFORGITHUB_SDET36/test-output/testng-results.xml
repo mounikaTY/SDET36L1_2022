@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[This is for repository]]>
+    </line>
+    <line>
+      <![CDATA[this is for github]]>
+    </line>
+    <line>
+      <![CDATA[this is another class for testng]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-21T17:33:39Z" name="Suite" finished-at="2022-07-21T17:33:39Z" duration-ms="58">
+    <groups>
+    </groups>
+    <test started-at="2022-07-21T17:33:39Z" name="Test" finished-at="2022-07-21T17:33:39Z" duration-ms="58">
+      <class name="mavenPractice.PracticeTestngTest1">
+        <test-method signature="methodTestngTest2()[pri:0, instance:mavenPractice.PracticeTestngTest1@65b104b9]" started-at="2022-07-21T23:03:39Z" name="methodTestngTest2" finished-at="2022-07-21T23:03:39Z" duration-ms="17" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[This is for repository]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodTestngTest2 -->
+        <test-method signature="testngMethodTest()[pri:0, instance:mavenPractice.PracticeTestngTest1@65b104b9]" started-at="2022-07-21T23:03:39Z" name="testngMethodTest" finished-at="2022-07-21T23:03:39Z" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[this is for github]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testngMethodTest -->
+      </class> <!-- mavenPractice.PracticeTestngTest1 -->
+      <class name="mavenPractice.MethodTestngTest">
+        <test-method signature="methodsPractice()[pri:0, instance:mavenPractice.MethodTestngTest@74bf1791]" started-at="2022-07-21T23:03:39Z" name="methodsPractice" finished-at="2022-07-21T23:03:39Z" duration-ms="6" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[this is another class for testng]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- methodsPractice -->
+      </class> <!-- mavenPractice.MethodTestngTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
