@@ -18,6 +18,10 @@ public class PracticeTestngTest1 {
 		Reporter.log("This is for repository",true);
 		
 		//code is pushing to local repository
+		
+		String Browser = System.getProperty("browser");
+		String URL = System.getProperty("url");
+		System.out.println("browser is"+Browser+"====>"+URL);
 	}
 
 }
