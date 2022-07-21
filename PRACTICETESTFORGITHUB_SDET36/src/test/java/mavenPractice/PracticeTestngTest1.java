@@ -16,6 +16,8 @@ public class PracticeTestngTest1 {
 	@Test
 	public void methodTestngTest2() {
 		Reporter.log("This is for repository",true);
+		
+		//code is pushing to local repository
 	}
 
 }
