@@ -9,6 +9,8 @@ public class PracticeTestngTest1 {
 	public void testngMethodTest() {
 		
 		Reporter.log("this is for github",true);
+		
+		//this is also a second change
 	}
 	
 	@Test
